@@ -1,0 +1,40 @@
+h1 {
+  color: purple;
+  font-size: 60px;
+}
+
+h2 {
+  font-style: bold;
+  color: skyblue;
+  font-size: 30px
+
+}
+
+h3 {
+  font-style: bold;
+  color: skyblue;
+  font-size: 25px
+
+}
+
+p {
+  color: gray;
+  font-size: 20px;
+}
+
+ul {
+    text-align: center;
+    list-style-position: inside;
+}
+
+li {
+    list-style: none;
+    font-size: 25px;
+    color: darkblue;
+}
+
+body {
+  background-color: #ffcd40;
+  font-family: sans-serif;
+  text-align: center;
+}
